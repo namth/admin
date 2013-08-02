@@ -1,0 +1,8 @@
+.list_box li{
+	padding: 10px;
+	background: lavender;
+	margin: 5px;
+}
+.list_box li a{
+	float:right;
+}
